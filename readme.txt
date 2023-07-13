@@ -1,1 +1,1 @@
-Hello This is my todo app
+Hello , This is my simple todo app 
